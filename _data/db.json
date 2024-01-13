@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "Spaghetti Bolognese",
-      "cuisine": "Italian",
+      "cuisine": "Spaghetti Bolognese.jpeg",
+      "image": "04.jpg",
       "ingredients": [
         "spaghetti",
         "ground beef",
@@ -20,6 +21,7 @@
       "id": 2,
       "name": "Chicken Stir-Fry",
       "cuisine": "Asian",
+      "image": "Chicken Stir-Fry.jpeg",
       "ingredients": [
         "chicken breast",
         "vegetables",
@@ -36,6 +38,7 @@
       "id": 3,
       "name": "Caprese Salad",
       "cuisine": "Italian",
+      "image": "Caprese Salad.jpeg",
       "ingredients": [
         "tomatoes",
         "mozzarella cheese",
@@ -52,6 +55,7 @@
       "id": 4,
       "name": "Vegetarian Chili",
       "cuisine": "Mexican",
+      "image": "Vegetarian Chili.jpg",
       "ingredients": [
         "beans",
         "tomatoes",
@@ -68,6 +72,7 @@
       "id": 5,
       "name": "Grilled Salmon",
       "cuisine": "Seafood",
+      "image": "Grilled Salmon.jpeg",
       "ingredients": [
         "salmon fillets",
         "lemon",
@@ -85,6 +90,7 @@
       "id": 6,
       "name": "Mushroom Risotto",
       "cuisine": "Italian",
+      "image": "Mushroom Risotto.jpeg",
       "ingredients": [
         "arborio rice",
         "mushrooms",
@@ -101,6 +107,7 @@
       "id": 7,
       "name": "Taco Salad",
       "cuisine": "Mexican",
+      "image": "Taco Salad.jpg",
       "ingredients": [
         "ground beef",
         "lettuce",
@@ -117,7 +124,8 @@
     {
       "id": 8,
       "name": "Pesto Pasta",
-      "cuisine": "Italian",
+      "cuisine": "Pesto Pasta.jpeg",
+      "image": "04.jpg",
       "ingredients": [
         "pasta",
         "basil pesto",
@@ -133,6 +141,7 @@
       "id": 9,
       "name": "Cauliflower Buffalo Wings",
       "cuisine": "American",
+      "image": "Cauliflower Buffalo Wings.jpg",
       "ingredients": [
         "cauliflower florets",
         "buffalo sauce",
@@ -149,6 +158,7 @@
       "id": 10,
       "name": "Shrimp Scampi",
       "cuisine": "Italian",
+      "image": "Shrimp Scampi.jpeg",
       "ingredients": [
         "shrimp",
         "linguine",
