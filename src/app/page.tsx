@@ -58,11 +58,15 @@ export default async function Home() {
               </p>
             </CardContent>
             <CardFooter className="flex justify-between">
-              <Button variant="secondary">view</Button>
+              <Button>view</Button>
               <p>
-                <Badge variant="outline">{recipe.difficulty}</Badge>
+                <Badge>{recipe.difficulty}</Badge>
               </p>
-              <p>{recipe.vegetarian && <Badge>vegetarian</Badge>}</p>
+              <p>
+                {recipe.vegetarian && (
+                  <Badge variant="secondary">vegetarian</Badge>
+                )}
+              </p>
             </CardFooter>
           </Card>
         ))}
