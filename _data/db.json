@@ -1,0 +1,166 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "tomato sauce",
+        "onions",
+        "garlic"
+      ],
+      "instructions": "Cook spaghetti; brown beef with onions and garlic; add tomato sauce; simmer and serve.",
+      "difficulty": "Medium",
+      "duration": "30 minutes",
+      "vegetarian": false
+    },
+    {
+      "id": 2,
+      "name": "Chicken Stir-Fry",
+      "cuisine": "Asian",
+      "ingredients": [
+        "chicken breast",
+        "vegetables",
+        "soy sauce",
+        "ginger",
+        "rice"
+      ],
+      "instructions": "Stir-fry chicken and vegetables in a wok; add soy sauce and ginger; serve over rice.",
+      "difficulty": "Easy",
+      "duration": "20 minutes",
+      "vegetarian": false
+    },
+    {
+      "id": 3,
+      "name": "Caprese Salad",
+      "cuisine": "Italian",
+      "ingredients": [
+        "tomatoes",
+        "mozzarella cheese",
+        "fresh basil",
+        "balsamic vinegar",
+        "olive oil"
+      ],
+      "instructions": "Slice tomatoes and mozzarella; arrange with basil leaves; drizzle with balsamic and olive oil.",
+      "difficulty": "Easy",
+      "duration": "15 minutes",
+      "vegetarian": true
+    },
+    {
+      "id": 4,
+      "name": "Vegetarian Chili",
+      "cuisine": "Mexican",
+      "ingredients": [
+        "beans",
+        "tomatoes",
+        "bell peppers",
+        "onions",
+        "chili powder"
+      ],
+      "instructions": "Saute onions and bell peppers; add beans, tomatoes, and chili powder; simmer until flavors meld.",
+      "difficulty": "Easy",
+      "duration": "45 minutes",
+      "vegetarian": true
+    },
+    {
+      "id": 5,
+      "name": "Grilled Salmon",
+      "cuisine": "Seafood",
+      "ingredients": [
+        "salmon fillets",
+        "lemon",
+        "olive oil",
+        "dill",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "Marinate salmon in olive oil, lemon, dill, salt, and pepper; grill until cooked through.",
+      "difficulty": "Medium",
+      "duration": "25 minutes",
+      "vegetarian": false
+    },
+    {
+      "id": 6,
+      "name": "Mushroom Risotto",
+      "cuisine": "Italian",
+      "ingredients": [
+        "arborio rice",
+        "mushrooms",
+        "onions",
+        "vegetable broth",
+        "parmesan cheese"
+      ],
+      "instructions": "Saute onions and mushrooms; add rice and gradually stir in broth; finish with parmesan.",
+      "difficulty": "Medium",
+      "duration": "40 minutes",
+      "vegetarian": true
+    },
+    {
+      "id": 7,
+      "name": "Taco Salad",
+      "cuisine": "Mexican",
+      "ingredients": [
+        "ground beef",
+        "lettuce",
+        "tomatoes",
+        "cheddar cheese",
+        "sour cream",
+        "taco seasoning"
+      ],
+      "instructions": "Brown beef with taco seasoning; assemble salad with lettuce, tomatoes, cheese, and sour cream.",
+      "difficulty": "Easy",
+      "duration": "20 minutes",
+      "vegetarian": false
+    },
+    {
+      "id": 8,
+      "name": "Pesto Pasta",
+      "cuisine": "Italian",
+      "ingredients": [
+        "pasta",
+        "basil pesto",
+        "cherry tomatoes",
+        "parmesan cheese"
+      ],
+      "instructions": "Cook pasta; toss with basil pesto; add halved cherry tomatoes and grated parmesan.",
+      "difficulty": "Easy",
+      "duration": "15 minutes",
+      "vegetarian": true
+    },
+    {
+      "id": 9,
+      "name": "Cauliflower Buffalo Wings",
+      "cuisine": "American",
+      "ingredients": [
+        "cauliflower florets",
+        "buffalo sauce",
+        "flour",
+        "milk",
+        "ranch dressing"
+      ],
+      "instructions": "Dip cauliflower in batter; bake until crispy; toss in buffalo sauce; serve with ranch dressing.",
+      "difficulty": "Medium",
+      "duration": "30 minutes",
+      "vegetarian": true
+    },
+    {
+      "id": 10,
+      "name": "Shrimp Scampi",
+      "cuisine": "Italian",
+      "ingredients": [
+        "shrimp",
+        "linguine",
+        "garlic",
+        "white wine",
+        "lemon",
+        "parsley"
+      ],
+      "instructions": "Saute shrimp and garlic; deglaze with white wine; toss with cooked linguine, lemon, and parsley.",
+      "difficulty": "Medium",
+      "duration": "25 minutes",
+      "vegetarian": false
+    }
+  ]
+}
