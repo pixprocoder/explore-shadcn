@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Spaghetti Bolognese",
-      "cuisine": "Spaghetti Bolognese.jpeg",
-      "image": "04.jpg",
+      "cuisine": "France",
+      "image": "Spaghetti Bolognese.jpeg",
       "ingredients": [
         "spaghetti",
         "ground beef",
@@ -124,8 +124,8 @@
     {
       "id": 8,
       "name": "Pesto Pasta",
-      "cuisine": "Pesto Pasta.jpeg",
-      "image": "04.jpg",
+      "cuisine": "Romanian",
+      "image": "Pesto Pasta.jpeg",
       "ingredients": [
         "pasta",
         "basil pesto",
