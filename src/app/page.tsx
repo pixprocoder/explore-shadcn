@@ -15,6 +15,7 @@ import { Badge } from "@/components/ui/badge";
 
 async function getRecipes(): Promise<any> {
   const result = await fetch("http://localhost:5000/recipes");
+  await new Promise((resolve) => setTimeout(resolve, 3000));
   const data = result.json();
   return data;
 }
