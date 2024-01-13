@@ -15,6 +15,7 @@ import { Badge } from "@/components/ui/badge";
 
 async function getRecipes(): Promise<any> {
   const result = await fetch("http://localhost:5000/recipes");
+  await new Promise((resolve) => setTimeout(resolve, 3000));
   const data = result.json();
   return data;
 }
@@ -57,11 +58,15 @@ export default async function Home() {
               </p>
             </CardContent>
             <CardFooter className="flex justify-between">
-              <Button variant="secondary">view</Button>
+              <Button>view</Button>
               <p>
-                <Badge variant="outline">{recipe.difficulty}</Badge>
+                <Badge>{recipe.difficulty}</Badge>
               </p>
-              <p>{recipe.vegetarian && <Badge>vegetarian</Badge>}</p>
+              <p>
+                {recipe.vegetarian && (
+                  <Badge variant="secondary">vegetarian</Badge>
+                )}
+              </p>
             </CardFooter>
           </Card>
         ))}
